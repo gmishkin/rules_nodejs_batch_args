@@ -1,0 +1,8 @@
+{
+  "name": "rules_nodejs_batch_args",
+  "version": "0.1.0",
+  "description": "Repro",
+  "main": "index.js",
+  "author": "geoff@amsa.info",
+  "license": "ISC"
+}
